@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "optional": "cpp",
+        "*.ipp": "cpp",
+        "string_view": "cpp",
+        "streambuf": "cpp"
+    }
+}
